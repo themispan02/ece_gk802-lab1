@@ -33,4 +33,3 @@ with requests.get(url) as response:  # το αντικείμενο response
     else:
         print("No cookie found")
     
-    print("test")
